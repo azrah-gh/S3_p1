@@ -18,7 +18,7 @@ github
 Successfully created and managed an s3 bucket, uploaded and accessed files using aws cloud services 
 
 ## Lab screenshots 
-![s3 bucket](Screenshot_20260105_170954_Samsung Internet~2.jpg)
-![Static website configuration](Screenshot_20260105_171119_Samsung Internet~2.jpg)
-![Content/files uploaded ](Screenshot_20260105_171224_Samsung Internet~2.jpg)
-![Public access of objects](Screenshot_20260105_171330_Samsung Internet~2.jpg)
+![s3 bucket](Screenshot_20260105_170954_Samsung Internet2.jpg)
+![Static website configuration](Screenshot_20260105_171119_Samsung Internet2.jpg)
+![Content/files uploaded ](Screenshot_20260105_171224_Samsung Internet2.jpg)
+![Public access of objects](Screenshot_20260105_171330_Samsung Internet2.jpg)
